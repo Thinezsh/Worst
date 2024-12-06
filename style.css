@@ -1,0 +1,24 @@
+body {
+    margin:5% 20%;
+    background-color:red;
+}
+#game {
+    position:absolute;
+    top:0%;
+    left:0%;
+    width:100%;
+    height:100%;
+    opacity:1;
+    box-sizing:border-box;
+    border: 2px solid black;
+    background-color:white;
+}
+img {
+    position:absolute;
+    top:60%;
+    left:60%;
+    width:40%;
+    height:40%;
+    display:none;
+    pointer-events: none;
+}
